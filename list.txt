@@ -1,2 +1,5 @@
 äpfel
 birnen
+ananas
+cola
+
