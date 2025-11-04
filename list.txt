@@ -2,4 +2,7 @@
 birnen
 ananas
 cola
-
+chips
+wurst
+käse
+pizza
