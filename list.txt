@@ -6,7 +6,9 @@ chips
 wurst
 käse
 pizza
-leberkäs
+leberkaas
  -normal 
  -pikant
 orangen
+döner
+sommerspritzer
