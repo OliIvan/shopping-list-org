@@ -12,3 +12,4 @@ leberkaas
 orangen
 döner
 sommerspritzer
+salat
