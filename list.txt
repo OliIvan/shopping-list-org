@@ -6,3 +6,6 @@ chips
 wurst
 käse
 pizza
+leberkäs
+ -normal 
+ -pikant
